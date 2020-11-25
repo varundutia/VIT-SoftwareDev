@@ -48,7 +48,7 @@ Modular, scalable code.
 Well structured code and folder structure.
 Handling exceptions and edge cases gracefully. 
 
-Tables: https://docs.google.com/spreadsheets/d/1UdcmcUPb-62olm6LGgG1d_8o0eLcaDAwPQc_vbx_ohY/edit#gid=0
+Tables: https://docs.google.com/spreadsheets/d/1UdcmcUPb-62olm6LGgG1d_8o0eLcaDAwPQc_vbx_ohY/edit?usp=sharing
 
 
 Probability Formula:
