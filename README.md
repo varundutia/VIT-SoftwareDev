@@ -6,18 +6,18 @@ Note: Test Submission instructions will be updated here at 4pm - check back here
 
 Test Instructions & prerequisites:
 
-Be familiar with git and it’s commands.
-Have a development environment with any database and any REST/Chat client building utilities/frameworks pre-installed.
-Fork from github repository. 
-The problem statement and further instructions will be added to the README.md file and committed in the main repository. 
-During the round, commit into your repositories at least once an hour.
-Submit your solution as a pull request (Name of Pull Request should be your reg no.) with proper documentation to this repo.
+1. Be familiar with git and it’s commands.
+2. Have a development environment with any database and any REST/Chat client building utilities/frameworks pre-installed.
+3. Fork from github repository. 
+4. The problem statement and further instructions will be added to the README.md file and committed in the main repository. 
+5. During the round, commit into your repositories at least once an hour.
+6. Submit your solution as a pull request (Name of Pull Request should be your reg no.) with proper documentation to this repo.
 
 Further Instructions:
-Make sure the name of the pull request you submit starts with your registration number.
-The README.md in your repo must contain explanations/documentations to be able to describe your approach and progress.
-Your individual commits will be seen to track progress. Write commit messages appropriately.
-For any queries, contact us on recruitment@hitwicket.com. (We are available on Google Chat)
+1. Make sure the name of the pull request you submit starts with your registration number.
+2. The README.md in your repo must contain explanations/documentations to be able to describe your approach and progress.
+3. Your individual commits will be seen to track progress. Write commit messages appropriately.
+4. For any queries, contact us on recruitment@hitwicket.com. (We are available on Google Chat)
 
 Summary:
 A chat service with a cricket game.
@@ -121,6 +121,9 @@ Server: “Waiting for an opponent...”
 Server: “Opponent found, match starting in 3...2…1”
 .
 .
+
+
+
 
 During match
 
